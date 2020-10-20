@@ -4,6 +4,11 @@
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},

@@ -2,7 +2,7 @@
 	{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
         	"images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",

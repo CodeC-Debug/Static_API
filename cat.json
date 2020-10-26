@@ -4,17 +4,17 @@
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
@@ -29,253 +29,113 @@
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
 	},
 		{
-		"name":"Katzenkekse",
-		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
-		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
-			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		],
-		"ingredients":[
-			{"uom":"1 Dose", "ingredient":"Tunfisch"},
-			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
-			{"uom":"2 EL", "ingredient":"Rapsöl"},
-			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
-		],
-		"steps":[
-			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
-			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
-			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
-		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
-	},
-	{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
 			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
 			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
 		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
 	},
 		{
-		"name":"Katzenkekse",
-		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
-		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
-			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		],
-		"ingredients":[
-			{"uom":"1 Dose", "ingredient":"Tunfisch"},
-			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
-			{"uom":"2 EL", "ingredient":"Rapsöl"},
-			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
-		],
-		"steps":[
-			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
-			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
-			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
-		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
-	},
-	{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
 			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
 			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
 		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
 	},
 		{
-		"name":"Katzenkekse",
-		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
-		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
-			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		],
-		"ingredients":[
-			{"uom":"1 Dose", "ingredient":"Tunfisch"},
-			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
-			{"uom":"2 EL", "ingredient":"Rapsöl"},
-			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
-		],
-		"steps":[
-			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
-			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
-			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
-		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
-	},
-	{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
 			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
 			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
 		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
 	},
 		{
-		"name":"Katzenkekse",
-		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
-		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
-			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		],
-		"ingredients":[
-			{"uom":"1 Dose", "ingredient":"Tunfisch"},
-			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
-			{"uom":"2 EL", "ingredient":"Rapsöl"},
-			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
-		],
-		"steps":[
-			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
-			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
-			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
-		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
-	},
-	{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
 		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
 			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
 			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
 		]
-	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
 	},
 		{
 		"name":"Katzenkekse",
 		"description":"Leckere Kekse für Katzen und Kater.",
-		"advice":"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
 		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-        	"images":[
+        "images":[
 			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
-		    	"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
 		],
 		"ingredients":[
 			{"uom":"1 Dose", "ingredient":"Tunfisch"},
 			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
 			{"uom":"2 EL", "ingredient":"Rapsöl"},
 			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
-			{"uom":"1 teaspoon", "ingredient":"Eiweiß"}
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
 		],
 		"steps":[
 			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
@@ -283,10 +143,190 @@
 			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
 		]
 	},
-	{
-		"name":"American-Style",
-		"advice":"US",
-		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
-		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
-	}
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+		{
+		"name":"Katzenkekse",
+		"description":"Leckere Kekse für Katzen und Kater.",
+		"advice":"Die Katzenkekse mit Thunfisch am tiefgefroren aufbewahren und bei Bedarf auf Zimmertemperatur auftauen.",
+		"imageUrl":"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+        "images":[
+			"https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+            "https://codec-debug.github.io/Static_API/katzenkekse.jpg",
+		],
+		"ingredients":[
+			{"uom":"1 Dose", "ingredient":"Tunfisch"},
+			{"uom":"30 Gramm", "ingredient":"Vollkornmehl"},
+			{"uom":"2 EL", "ingredient":"Rapsöl"},
+			{"uom":"130 Gramm", "ingredient":"Semmelbrösel"},
+			{"uom":"1 Teelöffel", "ingredient":"Eiweiß"}
+		],
+		"steps":[
+			"Für die Katzenkekse mit Thunfisch den Fisch fein pürieren (der eigene Saft dient als Flüssigkeit). Die übrigen Zutaten zu der Fischfarce geben und mit ca. 50 ml Wasser oder Katzenmilch zu einem glatten Teig verkneten. Den Teig abdecken und ca. eine halbe Stunde ruhen lassen.",
+			"Den Ofen auf 180 Grad vorheizen und den Teig dünn ausrollen. Mit der Ausstechform Ihrer Wahl kleine Kekse ausstechen. Haben Sie keine Ausstechform zur Verfügung, schneiden Sie einfach mit dem Messer kleine Ecken. Auf dem mit Backpapier ausgelegten Backblech auflegen.",
+			"Für ungefähr eine Viertelstunde backen. Die Katzenkekse mit Thunfisch gut auskühlen und trocknen lassen."
+		]
+	},
+	
+	
 ]

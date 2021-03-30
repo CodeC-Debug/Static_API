@@ -1,7 +1,7 @@
 [
 	{
 		"type":"0",
-		"text":"Es gibt nur eine Zeit, in der es wesentlich ist aufzustehen.\nDiese Zeit ist jetzt.",
+		"text":"Es gibt nur eine Zeit, in der es wesentlich ist aufzustehen.\r\nDiese Zeit ist jetzt.",
 	},
 	{
 		"type":"0",
@@ -9,11 +9,11 @@
 	},
     {
 		"type":"0",
-		"text":"Beginne den Tag mit einem positiven Gedanken.\nStarte den Morgen mit einem Lächeln und es wird dich durch den ganzen Tag begleiten.",
+		"text":"Beginne den Tag mit einem positiven Gedanken.\r\nStarte den Morgen mit einem Lächeln und es wird dich durch den ganzen Tag begleiten.",
 	},
     {
 		"type":"0",
-		"text":"Das Leben ist wie eine Leinwand.\nJeden Morgen kannst du dir aussuchen, ob du im alten Bild weiterpinselst, oder ein neues Bild beginnst.",
+		"text":"Das Leben ist wie eine Leinwand.\r\nJeden Morgen kannst du dir aussuchen, ob du im alten Bild weiterpinselst, oder ein neues Bild beginnst.",
 	},
     {
 		"type":"0",
@@ -21,7 +21,7 @@
 	},
     {
 		"type":"0",
-		"text":"Gib der guten Laune schon am Morgen eine Chance.\nEs ist die beste Voraussetzung für einen guten Tag.",
+		"text":"Gib der guten Laune schon am Morgen eine Chance.\r\nEs ist die beste Voraussetzung für einen guten Tag.",
 	},
     {
 		"type":"0",
@@ -33,15 +33,15 @@
 	},
     {
 		"type":"0",
-		"text":"Denke daran, dass die Gegenwart alles ist, was du hast.\nMache das Jetzt zum Mittelpunkt deines Lebens.",
+		"text":"Denke daran, dass die Gegenwart alles ist, was du hast.\r\nMache das Jetzt zum Mittelpunkt deines Lebens.",
 	},
     {
 		"type":"0",
-		"text":"Der Ideale Tag wird nie kommen.\nEr ist heute, wenn wir ihn dazu machen.",
+		"text":"Der Ideale Tag wird nie kommen.\r\nEr ist heute, wenn wir ihn dazu machen.",
 	},
     {
 		"type":"0",
-		"text":"In jedem Menschen ist Sonne.\nMan muss sie nur zum Leuchten bringen.",
+		"text":"In jedem Menschen ist Sonne.\r\nMan muss sie nur zum Leuchten bringen.",
 	},
     {
 		"type":"0",
@@ -49,11 +49,11 @@
 	},
     {
 		"type":"0",
-		"text":"Heute wird ein guter Tag.\nAlso wach auf und lächle.",
+		"text":"Heute wird ein guter Tag.\r\nAlso wach auf und lächle.",
 	},
     {
 		"type":"0",
-		"text":"Lächle in den Spiegel.\nMach das jeden Morgen und du wirst einen großen Unterschied in deinem Leben sehen.",
+		"text":"Lächle in den Spiegel.\r\nMach das jeden Morgen und du wirst einen großen Unterschied in deinem Leben sehen.",
 	},
     {
 		"type":"0",
@@ -65,11 +65,11 @@
 	},
     {
 		"type":"1",
-		"text":"Man verliert niemals seine Stärke.\nManchmal vergisst man nur, dass man sie hat.",
+		"text":"Man verliert niemals seine Stärke.\r\nManchmal vergisst man nur, dass man sie hat.",
 	},
     {
 		"type":"1",
-		"text":"Das Leben besteht zu 10% aus dem, was uns passiert.\nZu 90% aus dem, wie wir darauf reagieren.",
+		"text":"Das Leben besteht zu 10% aus dem, was uns passiert.\r\nZu 90% aus dem, wie wir darauf reagieren.",
 	},
     {
 		"type":"1",
@@ -81,11 +81,11 @@
 	},
     {
 		"type":"1",
-		"text":"Du bist gescheitert? Herzlichen Glückwunsch! Das heißt nur, du hast etwas versucht.\nVersuche es morgen einfach noch einmal.",
+		"text":"Du bist gescheitert? Herzlichen Glückwunsch! Das heißt nur, du hast etwas versucht.\r\nVersuche es morgen einfach noch einmal.",
 	},
     {
 		"type":"1",
-		"text":"Verlangsame deine Gedanken.\nKonzentriere dich auf deine Atemzüge.\nWerde das Durcheinander in deinem Kopf los.\nBereite deinen Körper und Geist auf die Ruhe vor.\nEs ist Zeit einzuschlafen, um morgen erfrischt und munter aufzuwachen.",
+		"text":"Verlangsame deine Gedanken.\r\nKonzentriere dich auf deine Atemzüge.\r\nWerde das Durcheinander in deinem Kopf los.\r\nBereite deinen Körper und Geist auf die Ruhe vor.\r\nEs ist Zeit einzuschlafen, um morgen erfrischt und munter aufzuwachen.",
 	},
     {
 		"type":"1",
@@ -113,7 +113,7 @@
 	},
     {
 		"type":"1",
-		"text":"Wenn dich heute jemand schlecht behandelt oder beleidigt hat, nimm das nicht persönlich.\nEs sagt nicht über dich aus, aber viel darüber was für eine Art Mensch diese Person ist.",
+		"text":"Wenn dich heute jemand schlecht behandelt oder beleidigt hat, nimm das nicht persönlich.\r\nEs sagt nicht über dich aus, aber viel darüber was für eine Art Mensch diese Person ist.",
 	},
     {
 		"type":"1",
@@ -129,7 +129,7 @@
 	},
     {
 		"type":"1",
-		"text":"Dort oben am Himmel gibt es einen Stern, der nur für dich leuchtet und auf dich acht gibt.\nSchlaf behütet und Träum etwas Schönes.",
+		"text":"Dort oben am Himmel gibt es einen Stern, der nur für dich leuchtet und auf dich acht gibt.\r\nSchlaf behütet und Träum etwas Schönes.",
 	},
     
 ]
